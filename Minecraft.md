@@ -1,9 +1,12 @@
 # 前置知识
-1. Minecraft常见的版本有Java版与基岩版两种，我们联机使用Java版本（一直玩的Java版，懒得研究基岩版了）
+1. Minecraft常见的版本有Java版与基岩版两种，我们联机使用Java版本（一直玩的Java版，懒得研究基岩版了。而且Java版可以玩盗版）
 1. Java版有若干版本号，我们联机是使用1.8版本（常用）或1.7.10版本（不常用）
 1. Minecraft可以通过安装多种mod来丰富游戏体验，不过没有mod的纯净版本也可以玩
 1. 更多知识请参阅[我的世界Minecraft Java版 下载指南|文件结构说明|推荐启动器](https://www.mcbbs.net/thread-38297-1-1.html)
 
+# 系统需求
+下图来自[我的世界Minecraft Java版 下载指南|文件结构说明|推荐启动器](https://www.mcbbs.net/thread-38297-1-1.html)。其实只要不是非常古老的电脑应该都行。
+![](minecraft系统需求.png)
 # 准备工作
 ## 安装纯净的1.8版本
 1. 下载并安装Java
